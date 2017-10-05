@@ -1,2 +1,2 @@
-,id,sequence,sitzung,speaker,speaker_cleaned,speaker_fp,speaker_key,speaker_party,text,top,top_id,type,wahlperiode
-0,120171,0,119,,,,,,,,,speech,18
+,id,profile_url,sequence,sitzung,speaker,speaker_cleaned,speaker_fp,speaker_key,speaker_party,text,top,top_id,type,wahlperiode
+0,591251,,0,119,,,,,,,,,speech,18
